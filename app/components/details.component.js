@@ -10,7 +10,7 @@ class Details extends React.Component {
             <div className="details">
                 <h3>{this.props.title}</h3>
             </div>
-        );
+        )
     }
 }
 
