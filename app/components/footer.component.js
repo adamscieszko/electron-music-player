@@ -6,7 +6,7 @@ class Footer extends React.Component {
             <div className="footer">
                 <p>
                     Love from <img src="public/img/logo.png" className="logo" />
-                    & <img src="public/img/soundcloud.png" className="soundcloud" />
+                    &nbsp; &nbsp; & &nbsp; &nbsp; <img src="public/img/soundcloud.png" className="soundcloud" />
                 </p>
             </div>
         )
