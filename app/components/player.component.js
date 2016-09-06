@@ -5,7 +5,7 @@ class Player extends React.Component {
     static propTypes = {
         backward: React.PropTypes.func,
         forward: React.PropTypes.func,
-        playStatus: React.PropTypes.bool,
+        playStatus: React.PropTypes.string,
         random: React.PropTypes.func,
         stop: React.PropTypes.func,
         togglePlay: React.PropTypes.func

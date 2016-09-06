@@ -3,7 +3,7 @@ import React from "react";
 class Progress extends React.Component {
     static propTypes = {
         elapsed: React.PropTypes.string,
-        position: React.PropTypes.string,
+        position: React.PropTypes.number,
         total: React.PropTypes.string
     }
 
